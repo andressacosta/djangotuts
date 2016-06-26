@@ -1,0 +1,31 @@
+body {
+	max-width: 870px;
+	margin: 0 auto;
+	color: #000;
+}
+
+
+body > h1 {
+	margin: 2em 0;
+	text-align: center;
+	/*text-transform: uppercase;*/
+	font-family: Lobster;
+}
+
+h1 {
+	color: hotpink;
+}
+
+a {
+	color: inherit;
+}
+
+a:hover {
+	color: hotpink;
+}
+
+.post {
+	margin-bottom: 2em;
+	padding-bottom: 2em;
+	border-bottom: 1px dotted hotpink;
+}
